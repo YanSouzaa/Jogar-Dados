@@ -23,4 +23,3 @@ d6.Rolar()
 d12.Rolar()
 d100.Rolar()
 
-//assistir aula 15 novamente
